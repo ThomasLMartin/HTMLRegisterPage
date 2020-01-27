@@ -1,5 +1,6 @@
 body {
     background-color: teal;
+    margin: 0;
 }
 header {
     background-color: white;
@@ -9,12 +10,12 @@ h3{
     text-align: left;
 }
 .text{
-    text-align: left;
+    text-align: center;
     margin: auto;
     padding: 20px 20px 20px 20px;
     border: 2px solid black;
-    width: 50%;
-    height: 50%;    
+    width: 10%;
+    height: 60%;   
 }
 button{
     background-color: seagreen;
